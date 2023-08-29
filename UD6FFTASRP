@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://kezike.github.io/cred-status-2/UD6FFTASRP#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
-  "issuanceDate": "2023-08-29T12:58:04.813Z",
+  "issuanceDate": "2023-08-29T13:10:16.108Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-08-29T12:58:04Z",
+    "created": "2023-08-29T13:10:16Z",
     "verificationMethod": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR#z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z26b1VQJj3pu6XQHPp5B23RftKEeLDmzvngtyb8Ttj5PckL5CcnaQ6eCzKoTnBjDnw3qxmGf9Rm3kzvFgRGs1NR2h"
+    "proofValue": "z2n2THGcEyWN687a1PJnyNr1RpeDqPDJZCXQwx6VZwrLiNjJhG7mwKUCd1y1MuanHfsp25QwoRuMHgUUyQ53iiuEL"
   }
 }
